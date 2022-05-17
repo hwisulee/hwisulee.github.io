@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
     - title: "Portfolio"
-    url: https://hwisulee.github.io/devportfolio/index.html/
+    url: /index/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
